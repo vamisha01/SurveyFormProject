@@ -1,0 +1,15 @@
+{
+  "name": "survey-form-backend",
+  "version": "1.0.0",
+  "description": "Backend for survey form result storage",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  }
+}
